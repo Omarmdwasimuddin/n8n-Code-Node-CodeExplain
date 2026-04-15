@@ -74,7 +74,6 @@ const subject = `Qoute Request from ${firstName} - Amount ${amount}`;
 const cleanMsg = msg.charAt(0).toUpperCase() + msg.slice(1);
 // বার্তার প্রথম অক্ষর বড় হাতে
 ```
-> ⚠️ **একটি টাইপো আছে** — `"Qoute"` হওয়া উচিত `"Quote"`
 
 ---
 
